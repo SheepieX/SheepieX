@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SheepieX also known as Laura
+- 👋 Hi, I’m @SheepieX also known as Lu
 - 👀 I’m interested in making something fun.
 - 🌱 I’m currently doing the CS50 course
 - 💞️ I’m looking to collaborate on ...
